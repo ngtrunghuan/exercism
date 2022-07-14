@@ -8,6 +8,12 @@
     },
     {
       "path": "semi-structured-logs"
+    },
+    {
+      "path": "health-statistics"
+    },
+    {
+      "path": "clock"
     }
   ]
 }
